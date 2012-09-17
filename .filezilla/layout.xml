@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<FileZilla3>
+    <Layout Builddate="2010-11-21" Buildtime="15:33:45">
+        <Resources>
+            <xrc file="dialogs.xrc" date="1290350053" />
+            <xrc file="menus.xrc" date="1290350053" />
+            <xrc file="netconfwizard.xrc" date="1290350053" />
+            <xrc file="quickconnectbar.xrc" date="1290350053" />
+            <xrc file="settings.xrc" date="1290350053" />
+            <xrc file="toolbar.xrc" date="1290350053" />
+        </Resources>
+        <Language id="sv_SE" date="1290350097">
+            <Font font="0;13;70;90;90;0;Lucida Grande;0" width="810" height="16" />
+            <Dialog name="UpdateCheck" width="539" />
+            <Dialog name="Site Manager" width="745" />
+            <Dialog name="Settings" width="612" />
+        </Language>
+    </Layout>
+</FileZilla3>
